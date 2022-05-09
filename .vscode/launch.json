@@ -1,0 +1,224 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Votation",
+      "request": "launch",
+      "mainClass": "Votation",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Employes",
+      "request": "launch",
+      "mainClass": "Employes",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch SimulateurNeurone",
+      "request": "launch",
+      "mainClass": "SimulateurNeurone",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch SafeProject",
+      "request": "launch",
+      "mainClass": "SafeProject",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Salaires",
+      "request": "launch",
+      "mainClass": "Salaires",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch PosteCommercial",
+      "request": "launch",
+      "mainClass": "PosteCommercial",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Course",
+      "request": "launch",
+      "mainClass": "Course",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Voyage",
+      "request": "launch",
+      "mainClass": "Voyage",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Secret",
+      "request": "launch",
+      "mainClass": "Secret",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Polymorph",
+      "request": "launch",
+      "mainClass": "Polymorph",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Magic",
+      "request": "launch",
+      "mainClass": "Magic",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch ToStringEq",
+      "request": "launch",
+      "mainClass": "ToStringEq",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch _3_2_Lego",
+      "request": "launch",
+      "mainClass": "_3_2_Lego",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Lego",
+      "request": "launch",
+      "mainClass": "Lego",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Philatelie",
+      "request": "launch",
+      "mainClass": "Philatelie",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Puissance4v2",
+      "request": "launch",
+      "mainClass": "Puissance4v2",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch BAL",
+      "request": "launch",
+      "mainClass": "BAL",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Direction",
+      "request": "launch",
+      "mainClass": "Direction",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch FiguresGeometriques",
+      "request": "launch",
+      "mainClass": "FiguresGeometriques",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Biblio",
+      "request": "launch",
+      "mainClass": "Biblio",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Labo",
+      "request": "launch",
+      "mainClass": "Labo",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Segmentation",
+      "request": "launch",
+      "mainClass": "Segmentation",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Supermarche",
+      "request": "launch",
+      "mainClass": "Supermarche",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Banque1",
+      "request": "launch",
+      "mainClass": "Banque1",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Poeme",
+      "request": "launch",
+      "mainClass": "Poeme",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch ManipRectangle",
+      "request": "launch",
+      "mainClass": "ManipRectangle",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch MasterMind",
+      "request": "launch",
+      "mainClass": "MasterMind",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Imc",
+      "request": "launch",
+      "mainClass": "Imc",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch Sapin",
+      "request": "launch",
+      "mainClass": "Sapin",
+      "projectName": "java poo_a14d2f56"
+    },
+    {
+      "type": "java",
+      "name": "Launch TestTirelire",
+      "request": "launch",
+      "mainClass": "TestTirelire",
+      "projectName": "java poo_a14d2f56"
+    }
+  ]
+}
